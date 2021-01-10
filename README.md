@@ -21,7 +21,7 @@ Why not? Rust is a pleasant language to work with and can directly target bare m
 
 ## Getting Started
 
-For more detailed instructions, see the [getting started guide](GETTING-STARTED.md).
+For more detailed instructions, see the [getting started guide](GETTING-STARTED.md)
 
 ### Install Dependencies
 
